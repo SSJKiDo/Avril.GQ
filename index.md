@@ -1,1 +1,1 @@
-<img src="https://yt3.ggpht.com/a-/AAuE7mC0IMkWW54O9-ZhJjuAGGAytNc_1GSvz-BMyQ=s900-mo-c-c0xffffffff-rj-k-no" data-canonical-src="https://yt3.ggpht.com/a-/AAuE7mC0IMkWW54O9-ZhJjuAGGAytNc_1GSvz-BMyQ=s900-mo-c-c0xffffffff-rj-k-no" width="200" height="200" />
+<img src="https://yt3.ggpht.com/a-/AAuE7mC0IMkWW54O9-ZhJjuAGGAytNc_1GSvz-BMyQ=s900-mo-c-c0xffffffff-rj-k-no" data-canonical-src="https://yt3.ggpht.com/a-/AAuE7mC0IMkWW54O9-ZhJjuAGGAytNc_1GSvz-BMyQ=s900-mo-c-c0xffffffff-rj-k-no" width="100" height="100" />
